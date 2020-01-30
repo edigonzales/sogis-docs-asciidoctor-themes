@@ -1,10 +1,10 @@
-font:
-  catalog:
-    Frutiger:
-      normal: frutiger-normal.ttf
-      italic: frutiger-italic.ttf
-      bold: frutiger-bold.ttf
-      bold_italic: frutiger-bold_italic.ttf
+#font:
+#  catalog:
+#    Frutiger:
+#      normal: frutiger-normal.ttf
+#      italic: frutiger-italic.ttf
+#      bold: frutiger-bold.ttf
+#      bold_italic: frutiger-bold_italic.ttf
 title_page:
   align: left
   #background_image: image:images/image_title_page_v3.png[] # 3150 x 1750 px, 3150 x 1200 px
