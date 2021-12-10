@@ -24,7 +24,7 @@ base:
   font_family: Frutiger
   font_size: 10
   line_height_length: 17
-  line_height: $base_line_height_length / $base_font_size + 5
+  line_height: $base_line_height_length / ($base_font_size - 2)
   align: justify
 vertical_rhythm: $base_line_height_length
 heading:
